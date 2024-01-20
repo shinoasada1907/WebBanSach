@@ -1,0 +1,17 @@
+D:\Project\Web\ASP\WebBanSach\BanSach.DataAccess\obj\Debug\net6.0\BanSach.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Web\ASP\WebBanSach\BanSach.DataAccess\obj\Debug\net6.0\BanSach.DataAccess.AssemblyInfoInputs.cache
+D:\Project\Web\ASP\WebBanSach\BanSach.DataAccess\obj\Debug\net6.0\BanSach.DataAccess.AssemblyInfo.cs
+D:\Project\Web\ASP\WebBanSach\BanSach.DataAccess\obj\Debug\net6.0\BanSach.DataAccess.csproj.CoreCompileInputs.cache
+D:\Project\Web\ASP\WebBanSach\BanSach.DataAccess\obj\Debug\net6.0\BanSach.DataAccess.csproj.AssemblyReference.cache
+D:\Project\Web\ASP\WebBanSach\BanSach.DataAccess\bin\Debug\net6.0\BanSach.DataAccess.deps.json
+D:\Project\Web\ASP\WebBanSach\BanSach.DataAccess\bin\Debug\net6.0\BanSach.DataAccess.runtimeconfig.json
+D:\Project\Web\ASP\WebBanSach\BanSach.DataAccess\bin\Debug\net6.0\BanSach.DataAccess.dll
+D:\Project\Web\ASP\WebBanSach\BanSach.DataAccess\bin\Debug\net6.0\BanSach.DataAccess.pdb
+D:\Project\Web\ASP\WebBanSach\BanSach.DataAccess\bin\Debug\net6.0\BanSach.Model.dll
+D:\Project\Web\ASP\WebBanSach\BanSach.DataAccess\bin\Debug\net6.0\BanSach.Model.pdb
+D:\Project\Web\ASP\WebBanSach\BanSach.DataAccess\obj\Debug\net6.0\BanSach.DataAccess.csproj.CopyComplete
+D:\Project\Web\ASP\WebBanSach\BanSach.DataAccess\obj\Debug\net6.0\BanSach.DataAccess.dll
+D:\Project\Web\ASP\WebBanSach\BanSach.DataAccess\obj\Debug\net6.0\refint\BanSach.DataAccess.dll
+D:\Project\Web\ASP\WebBanSach\BanSach.DataAccess\obj\Debug\net6.0\BanSach.DataAccess.pdb
+D:\Project\Web\ASP\WebBanSach\BanSach.DataAccess\obj\Debug\net6.0\BanSach.DataAccess.genruntimeconfig.cache
+D:\Project\Web\ASP\WebBanSach\BanSach.DataAccess\obj\Debug\net6.0\ref\BanSach.DataAccess.dll

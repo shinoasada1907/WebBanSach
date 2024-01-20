@@ -1,0 +1,11 @@
+D:\Project\Web\ASP\WebBanSach\BanSach.Model\bin\Debug\net6.0\BanSach.Model.deps.json
+D:\Project\Web\ASP\WebBanSach\BanSach.Model\bin\Debug\net6.0\BanSach.Model.dll
+D:\Project\Web\ASP\WebBanSach\BanSach.Model\bin\Debug\net6.0\BanSach.Model.pdb
+D:\Project\Web\ASP\WebBanSach\BanSach.Model\obj\Debug\net6.0\BanSach.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Web\ASP\WebBanSach\BanSach.Model\obj\Debug\net6.0\BanSach.Model.AssemblyInfoInputs.cache
+D:\Project\Web\ASP\WebBanSach\BanSach.Model\obj\Debug\net6.0\BanSach.Model.AssemblyInfo.cs
+D:\Project\Web\ASP\WebBanSach\BanSach.Model\obj\Debug\net6.0\BanSach.Model.csproj.CoreCompileInputs.cache
+D:\Project\Web\ASP\WebBanSach\BanSach.Model\obj\Debug\net6.0\BanSach.Model.dll
+D:\Project\Web\ASP\WebBanSach\BanSach.Model\obj\Debug\net6.0\refint\BanSach.Model.dll
+D:\Project\Web\ASP\WebBanSach\BanSach.Model\obj\Debug\net6.0\BanSach.Model.pdb
+D:\Project\Web\ASP\WebBanSach\BanSach.Model\obj\Debug\net6.0\ref\BanSach.Model.dll

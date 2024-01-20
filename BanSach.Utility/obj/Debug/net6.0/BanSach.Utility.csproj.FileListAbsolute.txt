@@ -1,0 +1,11 @@
+D:\Project\Web\ASP\WebBanSach\BanSach.Utility\bin\Debug\net6.0\BanSach.Utility.deps.json
+D:\Project\Web\ASP\WebBanSach\BanSach.Utility\bin\Debug\net6.0\BanSach.Utility.dll
+D:\Project\Web\ASP\WebBanSach\BanSach.Utility\bin\Debug\net6.0\BanSach.Utility.pdb
+D:\Project\Web\ASP\WebBanSach\BanSach.Utility\obj\Debug\net6.0\BanSach.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Web\ASP\WebBanSach\BanSach.Utility\obj\Debug\net6.0\BanSach.Utility.AssemblyInfoInputs.cache
+D:\Project\Web\ASP\WebBanSach\BanSach.Utility\obj\Debug\net6.0\BanSach.Utility.AssemblyInfo.cs
+D:\Project\Web\ASP\WebBanSach\BanSach.Utility\obj\Debug\net6.0\BanSach.Utility.csproj.CoreCompileInputs.cache
+D:\Project\Web\ASP\WebBanSach\BanSach.Utility\obj\Debug\net6.0\BanSach.Utility.dll
+D:\Project\Web\ASP\WebBanSach\BanSach.Utility\obj\Debug\net6.0\refint\BanSach.Utility.dll
+D:\Project\Web\ASP\WebBanSach\BanSach.Utility\obj\Debug\net6.0\BanSach.Utility.pdb
+D:\Project\Web\ASP\WebBanSach\BanSach.Utility\obj\Debug\net6.0\ref\BanSach.Utility.dll
